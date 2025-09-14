@@ -1,0 +1,31 @@
+# Node, npm
+node_modules/
+package-lock.json
+
+# VSCode
+.vscode/
+
+# OS / system files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+*.ini
+*.TMP
+*.log
+
+# OneDrive
+OneDrive*/
+*.url
+
+# User-specific files
+*.DS_Store
+*.swp
+*.sublime-workspace
+
+# Fonts / large binaries
+*.ttf
+*.otf
+*.eot
+*.woff
+*.woff2
